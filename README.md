@@ -2,6 +2,9 @@
 
 This is a basic Matlab implementation of the model described in [A Model of Saliency-Based Visual Attention for Rapid Scene Analysis](https://www.cse.psu.edu/~rtc12/CSE597E/papers/Itti_etal98pami.pdf) by Laurent Itti, Christof Koch, and Ernst Niebur.
 
+![Image1](https://github.com/conradmlee/elab-visual-attention/assets/46899887/6bd93c7f-c354-4ccd-867d-e0046bcd8b83)
+
+![Image2](https://github.com/conradmlee/elab-visual-attention/assets/46899887/09347897-5aac-42fe-8f9f-242ebb62c824)
 
 **RUNNING THE PROGRAM**
 
